@@ -1,5 +1,5 @@
-#ifndef _HOLBERTON_H_
-#define _HOLBERTON_H_
+#ifndef _MAIN_H_
+#define _MAIN_H_
 
 /*
  *  * Structs, enums and unions definitions
@@ -33,4 +33,4 @@ void jack_bauer(void);
 
 void times_table(void);
 
-#endif /* _HOLBERTON_H_ */
+#endif /* _MAIN_H_ */
